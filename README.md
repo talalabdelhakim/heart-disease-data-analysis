@@ -1,4 +1,6 @@
 # Heart Disease Exploratory Data Analysis (EDA)
+# link not book kaggle
+https://www.kaggle.com/code/talalhakem/heart-disease-exploratory-data-analysis-eda
 ##  Project Overview
 This project performs an Exploratory Data Analysis (EDA) on the Heart Disease dataset to uncover patterns, trends, and relationships between different health indicators and the presence of heart disease.
 The analysis focuses on understanding the data through statistical summaries and informative visualizations using Python.
