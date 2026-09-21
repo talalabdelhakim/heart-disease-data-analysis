@@ -1,5 +1,8 @@
 #  Heart Disease Analysis & Power BI Dashboard
 
+## Power BI Dashboard
+![Heart Disease Power BI Dashboard](Dashboard.png)
+
 ##  Project Overview
 
 This project analyzes a Heart Disease dataset to explore patterns, relationships, and factors associated with heart disease.
